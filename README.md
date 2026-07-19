@@ -1,43 +1,56 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
+=======
+<img width="1353" height="642" alt="Screenshot (226)" src="https://github.com/user-attachments/assets/4cb41b55-738c-4e93-8324-0657aee852f9" />
+>>>>>>> b06b6cd9fd93ca1e095409a3ee3d02f7dd3f655b
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+# 👟 Brand-UI - Shoe Landing Page
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+A modern Shoe Landing Page built using React.js. This project focuses on creating a clean, attractive, and user-friendly interface for a shoe brand.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Features
 
-### `npm test`
+* Modern UI
+* Hero Section
+* Navigation Bar
+* Call-to-Action Button
+* Clean Layout
+* Fast Performance
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Built With
 
-### `npm run build`
+* React.js
+* JavaScript (ES6)
+* HTML5
+* CSS3
+* Tailwind
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📂 Project Structure
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```text
+src/
+ ├── Component/
+ │   ├── Navbar.jsx
+ │   ├── Hero.jsx
+ ├── App.js
+ ├── index.js
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🎯 Purpose
 
-### `npm run eject`
+This project was created to practice React component structure and build a professional landing page for my web development portfolio.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## ✍️ Author
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Himanshu Mali - Frontend Developer
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
+<<<<<<< HEAD
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
@@ -72,3 +85,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # Brand-UI
 >>>>>>> 9be06cf816d49773bcfea1a976261d58fefe799b
+=======
+⭐ If you like this project, feel free to give it a star.
+>>>>>>> b06b6cd9fd93ca1e095409a3ee3d02f7dd3f655b
