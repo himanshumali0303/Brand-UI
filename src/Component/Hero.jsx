@@ -3,7 +3,7 @@ import React from "react";
 const Hero = () => {
   return (
     <div>
-      <section className="flex items-center justify-between px-8 py-16">
+      <section className="flex items-center justify-between px-8 py-8 ">
         <div className="max-w-xl">
           <h1 className="text-6xl font-extrabold leading-tight">
             YOUR FEET DESERVE THE BEST
@@ -15,7 +15,7 @@ const Hero = () => {
           </p>
 
           <div className="flex gap-4 mt-8">
-            <button className="bg-red-600 text-white px-6 py-3 rounded-md">
+            <button className="bg-red-600 text-white px-6 py-3 rounded-md hover:bg-red-700 ">
               Shop Now
             </button>
 
